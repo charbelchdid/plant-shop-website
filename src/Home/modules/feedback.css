@@ -1,0 +1,30 @@
+.feedback .row{
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 0 30px;
+}
+.feedback-text{
+    font-size: 18px;
+    font-weight: 500;
+}
+.feedback-name{
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    opacity: 0.7;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+.quote-icon{
+    color: #c6d8c0;
+    width: 32px;
+    height: 32px;
+}
+.col-12{
+    padding: 0;
+    margin: 0;
+}
+.round-img{
+    border-radius: 50%;
+}

@@ -1,0 +1,24 @@
+
+.white-bg{
+    background-color: white;
+    border-bottom: 1px solid #eaeaea !important;
+}
+.navbar-nav .white{
+    color: black !important;
+  }
+
+.navbar-nav .green{
+    color: #5c9735 !important;
+    fill: #5c9735 !important;
+  }
+
+.navbar-nav .green:hover{
+    color: black !important;
+    fill: black !important;
+}
+.nav-hor{
+  margin:0;
+  padding: 0;
+  height: 4px !important;
+  color: red;
+}

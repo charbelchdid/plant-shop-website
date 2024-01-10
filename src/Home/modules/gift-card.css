@@ -1,0 +1,41 @@
+.gift-card {
+    background-image: url('https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/08/footer-background.jpg');
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 105vh;
+    position: relative;
+}
+
+.gift-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4); 
+}
+.gift-card-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 100%;
+}
+.gift-card-title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.gift-card-subtitle{
+    font-size: 65px;
+    font-weight: 500;
+}
+.gift-card-description{
+    margin-top: 25px;
+    margin-bottom: 0;
+}

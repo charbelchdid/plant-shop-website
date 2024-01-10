@@ -1,0 +1,19 @@
+.header {
+    background-image: url('https://websitedemos.net/plant-shop-02/wp-content/uploads/sites/931/2021/09/hero-section-bg.jpg');
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 96vh;
+    color: white;
+    position: relative;
+}
+
+.header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5); 
+}

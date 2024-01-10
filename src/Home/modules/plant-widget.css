@@ -1,0 +1,18 @@
+.plant-image{
+    width: 100%;
+}
+.plant-name{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.plant-type{
+    opacity: 0.5;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.plant-price{
+    font-size:14px;
+    font-weight:600;
+    opacity: 0.8;
+}

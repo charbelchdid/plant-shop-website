@@ -1,0 +1,25 @@
+.welcome{
+    width: 100%;
+    opacity: 0.99;
+    margin-top: 30px;
+}
+.welcome-text{
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.welcome-quote{
+    font-size: 60px;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.shop-now-btn{
+    margin-top: 40px;
+    border-radius: 0;
+    font-size: 14px;
+    padding: 10px 30px;
+    font-weight: 500;
+}

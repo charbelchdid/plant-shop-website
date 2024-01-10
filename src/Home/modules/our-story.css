@@ -1,0 +1,36 @@
+.col-md-12,.col-lg-6{
+    padding: 0;
+    margin: 0;
+}
+.our-story-image{
+    width: 100%;
+    height: 100%;
+    object-fit:none;
+    object-position: top left;
+}
+.our-story-title{
+    font-size: 16px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.our-story-subtitle{
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 20px;
+}
+
+.our-story-text{
+    opacity: 0.7;
+    padding-right: 60px;
+    margin-bottom: 30px;
+}
+
+
+.OS-second-col{
+    display: block;
+    margin: auto;
+    padding: 0 80px;
+}

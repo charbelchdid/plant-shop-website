@@ -1,0 +1,34 @@
+.new-plants{
+    padding: 100px 50px;
+}
+.shop-now-btn-2{
+    margin-left: auto;
+    background-color: #5c9735;
+    color: white;
+    border-radius: 0;
+    padding: 10px 30px;
+}
+.shop-now-btn-2:hover{
+    background-color: #4d4f48;
+    color: white;
+}
+.row{
+    text-align: left;
+}
+.col,.col-sm-6,.col-md-4{
+    padding: 0;
+    margin: 0;
+}
+.left{
+    padding-right: 15px;
+}
+.right{
+    padding-left: 15px;
+}
+.mid{
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+.plants-row{
+    margin-top: 40px;
+}
