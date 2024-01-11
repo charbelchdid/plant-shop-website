@@ -1,0 +1,72 @@
+.get-in-touch{
+    padding: 70px 50px;
+}
+.contact-version{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.git-hr{
+    margin-right: 20%;
+}
+
+.git-column{
+    border-right: 1px solid #eaeaea;
+}
+
+.git-small-subtitle{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+.git-icons{
+    color: #5c9735;
+    margin-right: 20px;
+}
+.git-small-subsubtitle{
+    margin-left: 32px;
+    font-weight: 800;
+    opacity: 0.8;
+}
+.git-elemets{
+    margin-bottom: 40px;
+}
+.follow-us{
+    margin-top: 30px;
+}
+.follow-us-icons{
+    margin-right: 25px;
+    font-size: 25px;
+}
+.follow-us-icons:hover{
+    cursor: pointer;
+    color: #5c9735;
+}
+.follow-us-icons-row{
+    margin-top: 20px;
+}
+
+.contact-us-col{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.fl{
+    font-weight: 700;
+    opacity: 0.8;
+    margin-bottom: 0;
+}
+.contact-us-title{
+    margin-bottom: 30px;
+}
+.f-c-custom{
+    height: 50px;
+    border-radius: 0;
+}
+.f-c-custom-text{
+    height: 160px;
+    border-radius: 0;
+}
+.form-req{
+    color:red;
+}

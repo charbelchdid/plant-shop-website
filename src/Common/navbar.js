@@ -27,7 +27,9 @@ const NavBar = ()=>{
                     </Link>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link white" href="#">Contact</a>
+                    <Link class="nav-link white" to="/contact">
+                        Contact
+                    </Link>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link green" href="#">
